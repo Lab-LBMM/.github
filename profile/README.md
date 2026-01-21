@@ -1,1 +1,1 @@
-## Laboratório de Bioinformática e Multi-ômicas de Microrganismos
+## Laboratório de Bioinformática e Multi-ômicas de Microrganismos (LBMM)
